@@ -3,7 +3,7 @@ Peer-graded Assignment: Getting and Cleaning Data Course Project (week 4)
 
 Files included in this project are:
 
-CodeBook.md             - Includes a description of the Dataset.
+CodeBook.md             - Includes a description of the Modifications of the given data.
 
 run_analysis.R          - R file with the code used to analyse and clean the given data.
 

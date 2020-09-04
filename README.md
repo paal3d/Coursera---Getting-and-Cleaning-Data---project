@@ -9,3 +9,10 @@ run_analysis.R          - R file with the code used to analyse and clean the giv
 
 FinalProjectDataset.txt - This is the data file for the final dataset in the project.
 
+
+Steps done:
+1. Merge training and test data
+2. Extract data only for mean and standard deviation
+3. Use decription for activity
+4. Change the column names to be more readable
+5. Create a summary dataset grouped by Subject and Activity with means for all included measurements
